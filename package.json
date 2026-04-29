@@ -1,0 +1,12 @@
+{
+  "name": "editor-office-electron",
+  "version": "1.0.0",
+  "description": "Editor estilo Word com abas, autosave e exportação PDF",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^36.0.0"
+  }
+}
